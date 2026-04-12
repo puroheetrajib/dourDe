@@ -98,7 +98,7 @@ User Display (Formatted response)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dourDe.git
+git clone https://github.com/puroheetrajib/dourDe.git
 cd dourDe
 
 # Install dependencies
